@@ -1,0 +1,23 @@
+body
+{
+  background: rgb(255,247,0);
+  background: linear-gradient(90deg, rgba(255,247,0,1) 16%, rgba(254,153,12,1) 32%, rgba(254,24,24,1) 53%, rgba(127,253,45,1) 69%, rgba(119,47,253,1) 85%);
+  text-align: center;
+}
+img
+{
+  border-radius:50%;
+  width:10%;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+#myname{
+    font-family: 'Courgette', cursive;
+}
